@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.lang.NumberFormatException;
 import java.text.DecimalFormat;
 
-public class mycalculator {
+public class MyCalculator {
   private static double  firstNumber     =    0;
   private static double  secondNumber    =    0;
   private static double  answer          =    0;
